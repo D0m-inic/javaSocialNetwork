@@ -1,0 +1,2 @@
+# javaSocialNetwork
+Java concurrency simulation
